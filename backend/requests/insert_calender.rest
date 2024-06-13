@@ -1,0 +1,7 @@
+POST http://localhost:3001/google/calendar/insert
+Content-Type: application/json
+{
+    newEvents:["test123"],
+    newDates: [],
+    newTimes: []
+}
